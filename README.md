@@ -1,4 +1,5 @@
-ProShop – Full-Stack E-commerce Application
+PROSHOP
+– Full-Stack E-commerce Application
 A full-featured e-commerce platform built with the MERN stack (MongoDB, Express, React, Node.js) and Redux for state management.
 It supports product browsing, cart management, checkout process, user authentication, and an admin dashboard for managing products, users, and orders.
 
