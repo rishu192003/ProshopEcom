@@ -38,22 +38,22 @@
 
 ## 📁 Project Structure
 
-proshop/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── server.js
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── screens/
-│ │ └── App.js
-│ └── package.json
-├── .env.example
-├── Dockerfile
-└── README.md
+- proshop/
+  ├── backend/
+  │ ├── controllers/
+  │ ├── models/
+  │ ├── routes/
+  │ ├── middleware/
+  │ └── server.js
+  ├── frontend/
+  │ ├── src/
+  │ │ ├── components/
+  │ │ ├── screens/
+  │ │ └── App.js
+  │ └── package.json
+  ├── .env.example
+  ├── Dockerfile
+  └── README.md
 
 
 ---
