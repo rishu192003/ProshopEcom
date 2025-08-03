@@ -101,10 +101,8 @@ Node environment settings
 This app is fully Dockerized with both frontend and backend containers.
 
 1. Build & Start the App
-bash
-Copy
-Edit
 docker-compose up --build
+
 2. Visit the App
 Frontend: http://localhost:3000
 Backend API: http://localhost:5000/api
