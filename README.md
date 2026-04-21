@@ -10,6 +10,22 @@
 
 ---
 
+## 🛠 Admin Access
+
+To explore admin features, you can log in using the following demo credentials:
+
+- **Email:** admin@email.com  
+- **Password:** 123456  
+
+> ⚠️ Note: These credentials are for demo purposes only. In production, ensure secure authentication and do not expose sensitive credentials publicly.
+
+Admin users can:
+
+- Manage products  
+- View and update orders  
+- Manage users
+
+---
 ## 🚀 Features
 
 - 🔒 JWT-based authentication and authorization
